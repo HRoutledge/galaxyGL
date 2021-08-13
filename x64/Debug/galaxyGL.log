@@ -1,0 +1,10 @@
+﻿  visuals.cpp
+C:\Users\hlr20\source\repos\galaxyGL\galaxyGL\visuals.h(85,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hlr20\source\repos\galaxyGL\galaxyGL\visuals.cpp(142,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hlr20\source\repos\galaxyGL\galaxyGL\visuals.cpp(150,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hlr20\source\repos\galaxyGL\galaxyGL\visuals.cpp(169,30): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  galaxyGL.vcxproj -> C:\Users\hlr20\source\repos\galaxyGL\x64\Debug\galaxyGL.exe
